@@ -1,0 +1,49 @@
+here is the material and i am provividig you the format which you have to follow
+
+Commands for modifying flashcards in my app:
+
+C1: Correct or incorrect statement;
+C2: Answer written in only correct or incorrect.
+C3: Corrected statement with error written in bracket just after the correction.
+C4: Exaplanation and example.
+
+Samples.
+
+<p>Furniture make up 50% of the shipment's volume.</p>
+<p>Incorrect</p>
+<p>Furniture makes up 50% of the shipment's volume.(make)</p>
+<p>Furniture is a non-countable noun and takes a singular verb.</p>
+
+Mention the error at the end of the line which was there in C1 but now corrected.
+
+<p>Furniture makes up 50% of the shipment's volume.</p>
+<p>COrrect</p>
+<p>Furniture is a non-countable noun and takes a singular verb.</p>
+
+There will be some issues with the content i provided regarding format but you can resolve them intelligently and make them accordign to format. Only error at the end of sentence which was there in C1. C1 must have an error and that should be corrected in C3 in the way as told above.
+
+Requirements:
+
+Modify the wording
+Make it look professional.
+Keep the intentional errors in C1 intact. 
+Give additional cards like them along with the ones I provide. Give 10-15 additional cards.
+Discard faulty cards and replace them with right ones.
+Give all cards in one black box. Code box plain text.
+Remove numbering C1 C2 etc and enclose every C in p tag separately. P tags of each C must end in </p>
+No one line space between each C but one line space between each set or each whole flashcard comprising of C1 C2 and C3.
+Give good example and explanation of each card and enclose it in P tags as well.
+Note that when C2 says that the statement is incorrect then C1 must have an incorrect statement.
+Stay in the grammar topic with the other cards. If other cards are related to pronoun testing then all the cards should be related to pronoun testing and so on.
+
+
+Here ar more samples.
+
+<p>However, by being so long in lowest form, I gained an immense advantage over the cleverer boys.</p>
+<p>Incorrect</p>
+<p>However, by being so long in the lowest form, I gained an immense advantage over the cleverer boys.(lowest form)</p>
+<p>Use "the" with specific references to groups or classes.</p>
+
+I need cards exactly like this!!
+
+This is the format you have to follow now give the result
